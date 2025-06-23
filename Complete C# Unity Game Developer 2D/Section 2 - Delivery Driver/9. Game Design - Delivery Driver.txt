@@ -1,0 +1,28 @@
+It is important to have a general outline for your game's design.
+
+For this game, we need the player's car, obstacles, speed ups, packages to be picked up by the player, and customers for the player to deliver them to.
+
+
+
+Game Mechanics We Need
+
+- Driving car forwards and backwards
+- Turning car left and right
+- Increase speed up when drive over 'Speed Ups'
+- Decrease speed when bump into 'Slow Downs'
+- Pick up packages when drive over them
+- Deliver package when drive over delivery spot
+- Change car color to show status
+
+
+
+Game Design
+
+Player Experience:
+Relaxing
+
+Core Mechanic:
+Drive over pickups
+
+Game Loop:
+Find and deliver all the packages to win

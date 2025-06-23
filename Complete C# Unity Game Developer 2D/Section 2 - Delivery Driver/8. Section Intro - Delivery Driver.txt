@@ -1,0 +1,1 @@
+I will learn to use variables, if statements, methods, triggers, colliders, and references.
