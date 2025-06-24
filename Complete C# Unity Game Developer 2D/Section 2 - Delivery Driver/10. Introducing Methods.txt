@@ -1,0 +1,25 @@
+What Are Methods?
+
+- Methods (also called Functions) execute blocks of code that makes our game do things
+
+- We can:
+	- Use the methods already available in Unity
+	- Create our own methods
+
+
+
+Creating And Calling
+
+- When we CREATE a method, we are giving it a name and saying what it should do
+
+- When we CALL a method we are saying "do the things now please"
+
+
+
+Namespaces are libraries that you can use (ex. UnityEngine)
+
+Classes group similar things together, and in particular classes we can execute methods.
+
+Global rotation locks movement direction regardless of a GameObject's rotation, whereas local rotation changes it relative to its rotation.
+
+YOUR CODE WILL NOT WORK IF YOU DO NOT PUT A SEMICOLON AT THE END OF EACH LINE!
