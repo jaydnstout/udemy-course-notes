@@ -1,0 +1,27 @@
+Variables Are Like Boxes
+
+- Variables help us store, manipulate and refer to information
+- Each variable has a NAME (ex. hitPoints)
+- Each variable contains DATA (or VALUE, ex. 20)
+- Each variable is of a particular TYPE (ex. int/integer/whole number)
+
+ex. int hitPoints = 20;
+
+
+
+Some Common Types Of Variables
+
+- int/integer (whole numbers)
+- float (fractional numbers, up to 6 decimal places)
+- double (fractional numbers, up to 15 decimal places, irrelevant)
+- bool (true/false)
+- string (sequence of characters/anything contained within quotation marks)
+
+ex.
+	float speed = 3.8f;
+	bool isAlive = true;
+	string myName = "Jaydn";
+
+
+
+Variables are declared within the class, before the Start and Update methods.

@@ -1,0 +1,19 @@
+Unity Input System
+
+- Input System: converting the player's physical action (eg. button press, key press) into information for the game
+- Unity has used a few different input systems
+- Currently there is "old" system and "new" system
+- We'll use both in this course
+- Use "old" system for this current project
+
+
+
+Edit > Project Settings > Input Manager
+
+
+
+One disadvantage of using the "old" system is that axis names are case-sensitive, meaning when using them you must type them exactly as named.
+
+Variables can be defined within methods (particularly the Update method) if you need to use them there only. There, they do not need to be pre-defined.
+
+When calling variables in a method (ex. transform.Translate) you can use a minus sign before the variable name if the variable is numerical to negate its value (ex. moveSpeed is 1, so calling -moveSpeed will return -1)
