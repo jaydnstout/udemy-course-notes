@@ -1,0 +1,19 @@
+Sprites Are Made Of Pixels
+
+- Resolution refers to the number of pixels in an image
+- Higher resolution = more pixels
+
+
+
+Unity Units
+
+- 1 Unity Unit has no meaning, just what ever we want it to represent. It could be meters, kilometers, miles, inches, whatever we want.
+
+
+
+Pixels Per Unit
+
+- New assets default to 100 pixels per Unity unit.
+- Bigger: less pixels per unit
+
+This is useful for giving 2D assets precise measurements.

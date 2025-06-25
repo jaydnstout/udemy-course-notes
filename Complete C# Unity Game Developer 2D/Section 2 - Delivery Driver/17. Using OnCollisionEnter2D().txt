@@ -1,0 +1,3 @@
+Writing all of a GameObject's code in one single script is bad practice, because it makes it harder to track errors or bugs in one long script.
+
+Code formatting doesn't matter much.

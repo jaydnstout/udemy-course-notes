@@ -1,0 +1,13 @@
+Creating A "Reference"
+
+- If we want to access / change / call anything other than this game object's transform, we need to create a reference.
+
+- Ie. We need to tell Unity what the "thing" is that we are referring to.
+
+
+
+You can use a Vector3 to modify parameters within the Transform component.
+
+ex. transform.position = target.transform.position + new Vector3(0, 0, -10);
+
+I used this code to make the camera follow the player without clipping into the "ground", since it was originally on the same Z level as everything else.
