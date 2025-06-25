@@ -1,0 +1,17 @@
+Destroying Game Objects
+
+- We call Destroy() to delete game objects from the scene
+- Destroy requires us to tell it ("pass in") 2 things:
+
+	- Which game object to destroy
+	- How much delay until its destroyed (optional)
+
+ex. Destroy(theMonster.gameObject, 0.5f);
+
+
+
+You can use an exclamation mark (!) to negate a bool in an if statement.
+
+ex. 'if (hasPackage)' means 'if (hasPackage == true)'
+
+    'if (!hasPackage)' means 'if (hasPackage == false)'

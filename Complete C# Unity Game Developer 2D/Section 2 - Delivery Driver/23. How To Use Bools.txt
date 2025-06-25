@@ -1,0 +1,4 @@
+What Is A Bool?
+
+- Bools are types of variables that can store one of two values - true or false
+- They are often used with if statements to decide whether something happens or not

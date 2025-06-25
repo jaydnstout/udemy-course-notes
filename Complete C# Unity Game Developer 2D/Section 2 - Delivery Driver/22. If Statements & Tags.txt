@@ -1,0 +1,19 @@
+If Statements
+
+- If statements let us check if something is true or not and then do something based upon the result.
+
+ex. if (this thing is true)
+    {
+        do this thing;
+    }
+
+    if (I'm hungry)
+    {
+        Eat junk food while Mom isn't watching;
+    }
+
+
+
+Why Use Tags?
+
+- Tags allow us to easily check in code if something belongs to a particular category of thing.
