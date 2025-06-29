@@ -1,0 +1,21 @@
+Game Mechanics We Need
+
+- Move along the track
+- Rotate forwards and backwards
+- Ability to speed up
+- Particle effects that only play when we're touching ground
+- Finish line that restarts level
+- Crash detection which restarts the level
+
+
+
+Game Design
+
+Player Experience:
+Smooth, relaxing
+
+Core Mechanic:
+Don't crash
+
+Game Loop:
+Reach the end to win

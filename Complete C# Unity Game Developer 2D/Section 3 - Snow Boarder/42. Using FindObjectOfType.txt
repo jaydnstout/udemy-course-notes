@@ -1,0 +1,3 @@
+FindObjectOfType is obsolete, use FindFirstObjectByType instead.
+
+FindFirstObjectByType is good IF YOU ONLY HAVE ONE OF WHAT YOU'RE LOOKING FOR IN THE SCENE.

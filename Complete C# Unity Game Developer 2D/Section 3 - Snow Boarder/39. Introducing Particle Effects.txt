@@ -1,0 +1,5 @@
+Particle systems have an emitter and particles. The position of the particle system is where the emitter is. 
+
+Particle System is a Component added to a GameObject.
+
+We use Modules for controlling behavior (ex. Emission, Shape, etc.).

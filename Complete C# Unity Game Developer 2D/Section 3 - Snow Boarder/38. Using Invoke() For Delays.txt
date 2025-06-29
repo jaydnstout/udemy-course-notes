@@ -1,0 +1,15 @@
+Creating A Delay
+
+- There are 2 useful approaches to "waiting a moment".
+
+	- Invoke
+
+	- Coroutines
+
+- Invoke is a bit easier to understand but not as powerful.
+
+
+
+Using Invoke()
+
+- When we call Invoke() we need to pass in the name of the method we want to call after a delay, as well as how long the delay is.

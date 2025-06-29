@@ -1,0 +1,25 @@
+Organizing Code
+
+- The more code we have, the higher likelihood of conflicts between names and behaviors. Especially on multi-person projects.
+
+	- Eg. Programmer 1 working on player uses "Movement" method but 	Programmer 2 working on enemy also uses "Movement" method.
+
+- So in C# our code is grouped with a particular structure to reduce conflicts.
+
+
+
+How C# Is Broadly Organised
+
+- C# is like a Matryoshka (The Russian stacking doll)
+
+- Statements are contained within methods.
+
+- Methods are contained within classes (ex. FinishLine.cs).
+
+- Classes are contained within namespaces (ex. UnityEngine).
+
+- Class > Method > Statement
+
+
+
+If we want to use functionality from another namespace other than UnityEngine, we can use "using" followed by the name of the namespace (such as UnityEngine.SceneManagement, but that is unnecessary, as SceneManagement is already contained within the UnityEngine namespace).

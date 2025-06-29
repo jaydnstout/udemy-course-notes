@@ -1,0 +1,12 @@
+What Is Cinemachine?
+
+- Cinemachine is a powerful package that lets us:
+
+	- manage multiple cameras in our scene
+	- Easily create rules for our cameras
+
+
+
+Window > Package Manager
+
+	Packages: Unity Registry

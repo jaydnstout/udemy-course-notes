@@ -1,0 +1,1 @@
+Directly modifying rotation can be janky when used in parallel with Unity's physics system, so rather than doing that, you can use force.
