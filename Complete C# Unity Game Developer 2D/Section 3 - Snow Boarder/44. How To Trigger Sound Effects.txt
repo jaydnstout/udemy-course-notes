@@ -1,0 +1,7 @@
+Audio Terminology
+
+- Audio Listener - like a microphone, receives sounds and plays through your computer's speakers
+
+- Audio Source - Plays audio and allows us to adjust settings (eg. volume)
+
+- Audio Clip - Contains the audio data to be played (mp3, Wav, OGG)
