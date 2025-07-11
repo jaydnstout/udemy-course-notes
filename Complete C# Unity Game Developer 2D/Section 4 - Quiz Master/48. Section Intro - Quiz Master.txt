@@ -1,0 +1,1 @@
+I will learn about the UI, how to add a Canvas, which can be used to display things like text and images, and accept player input from buttons and sliders. I will use Scriptable Objects to store my questions, and lists and arrays to use them in normal scripts. To use them, I will use "for" loops.
